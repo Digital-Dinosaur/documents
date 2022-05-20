@@ -1,7 +1,5 @@
 # Project Pitches
 
-![whiteboard for ideas](/Final-Project-Ideas-401.png)
-
 ## Infinite Landscape
 
 An ever-expanding, user-created exploration space.

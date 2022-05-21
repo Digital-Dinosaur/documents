@@ -6,7 +6,7 @@ An ever-expanding, user-created exploration space.
 
 ### What does this solve?
 
-There are many online games and forums for creating and sharing adventures but none allow you to visualize and spontaneously dive into another person's imagination. In Infinite Landscape, you can explore a map of user-generated places and stories. Highlighted items of interest will give personality and detail to each location. Creators and explorers 
+There are many online games and forums for creating and sharing adventures but none allow you to visualize and spontaneously dive into another person's imagination. In Infinite Landscape, you can explore a map of user-generated places and stories. Highlighted items of interest will give personality and detail to each location. The short-form narratives will be easy to create and easy to use for inspiration and entertainment.
 
 ### Key Features
  

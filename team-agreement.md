@@ -1,5 +1,5 @@
 
-# TEAM \<NAME TO BE DETERMINED\>
+# TEAM INFINITE LANDSCAPE
 
 ## Teammates
 

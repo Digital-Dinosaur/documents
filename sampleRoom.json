@@ -1,0 +1,19 @@
+{
+  "nodes": [
+    {
+      "label": "The first room",
+      "username": "micha",
+      "penName": "Michanations",
+      "summary": "A simple room with information placqards on one wall.",
+      "description": "Welcome to your introduction to the Infinite Landscape! This room is completely unadorned, save for a gigantic information diagram on the east wall. (Note: Hover over the word 'information') There is a single door leading out of the room, above it are written the words: 'THIS WAY TO THE EGRESS.' (Note: hover over the word 'door')",
+      "group": "TUTORIAL",
+      "color": "blue",
+      "tooltips": {
+        "room": "The Infinte Landscape is made of inter-connected 'rooms,' each with their own unique description. It doesn't have to be a room, though--the text in a room can describe anything! You can create your own 'room' by clicking on 'Create A Room' in the menu bar!",
+        "information": "You can hover over words like this to get more information about your environment. These things could be hidden anywhere in the description, so look carefully!",
+        "door": "This door leads to the next room. Click on the room on the map to move to that room. Happy exploring!",
+        "EGRESS": "Contrary to one's initial assumptions, an egress is not a female egret. It means 'exit.'"
+      }
+    }
+  ]
+}

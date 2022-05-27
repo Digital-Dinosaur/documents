@@ -7,7 +7,7 @@
 
 # Planning Visuals
 
-![Wireframes](wireframes.png)
-![Routes](route-plan.png)
-![Schemas](schema-plan.png)
+![Wireframes](wireframes.PNG)
+![Routes](routes-plan.PNG)
+![Schemas](schema-plan.PNG)
 ![Front-end file structure](file-structure-plan.PNG)

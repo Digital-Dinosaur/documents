@@ -21,6 +21,6 @@
 
 ![Schemas](schema-plan.PNG)
 
-### File Structures
+### File Structure
 
 ![Front-end file structure](file-structure-plan.PNG)
